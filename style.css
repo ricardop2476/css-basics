@@ -51,7 +51,7 @@ code {
     font-size: 16px;
 }
 
-a {
+a:link {
  color: green;
 }
 
